@@ -29,3 +29,6 @@ printf("%d", fib(n));
 getchar();
 return 0;
 }
+
+Time Complexity: O(n)
+Extra Space: O(n)
